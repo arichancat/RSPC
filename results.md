@@ -1,4 +1,4 @@
-# 📊 RSPC Multi-Task Learning — Experiment Results
+# 📊 RSPC — Experiment Results
 
 ---
 
